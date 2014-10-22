@@ -1,4 +1,4 @@
-JSONParsingExample
+mon exemple
 ==================
 
 An example to show how to read a JSON source file with Java.
